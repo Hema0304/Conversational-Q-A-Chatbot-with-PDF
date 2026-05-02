@@ -7,9 +7,9 @@ streamlit
 langchain-groq
 langchain-text-splitters
 langchain_chroma
-langchain
-langchain-core 
-langchain-community
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-core==0.2.38
 bs4
 arxiv
 pymupdf
