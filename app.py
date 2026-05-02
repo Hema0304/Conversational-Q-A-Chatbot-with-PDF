@@ -16,7 +16,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-os.environ["HF_TOKEN"]=os.getenv("HF_TOKEN")
+hf_token = os.getenv("HF_TOKEN")
 
 @st.cache_resource
 def load_embeddings():
