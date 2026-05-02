@@ -7,3 +7,4 @@ faiss-cpu
 openai
 pypdf
 langchain-groq
+sentence-transformers
