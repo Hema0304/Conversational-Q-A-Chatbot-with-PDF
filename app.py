@@ -27,7 +27,7 @@ embeddings=load_embeddings()
 # embeddings=HuggingFaceEmbeddings(model_name='all-MiniLM-L6-v2')
 
 
-st.title("Conversation RAG with PDF uploads and chat history")
+st.title("Document Intelligence Assistant (RAG-based) ")
 st.write("Upload pdf's and chat with their content")
 
 api_key = st.text_input("Enter your Groq API key:",type="password")
