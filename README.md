@@ -24,3 +24,9 @@ User Query → Text Embedding → FAISS Vector DB → Relevant Chunks → LLM (G
 
 ## 🔗 Live Demo
  [Live Demo](https://conversational-q-a-chatbot-with-pdf-avhnckaibfappdmbbnvehjb.streamlit.app/)
+
+ ## Screenshot
+ ![screenshot](screenshot1.png)
+ ![Screenshot](screenshot2.png)
+ 
+ 
