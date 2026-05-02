@@ -2,9 +2,11 @@ streamlit
 langchain==0.2.14
 langchain-community==0.2.12
 langchain-core==0.2.38
-chromadb
+
+chromadb==0.4.24
 faiss-cpu
 openai
 pypdf
 langchain-groq
 sentence-transformers
+protobuf==4.25.3
