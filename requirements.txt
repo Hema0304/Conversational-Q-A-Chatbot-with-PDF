@@ -6,3 +6,4 @@ chromadb
 faiss-cpu
 openai
 pypdf
+langchain-groq
